@@ -13,7 +13,7 @@
 <body>
 <?php
 	$did=$_GET['did'];
-	@mysql_connect('127.0.0.1:3306','root','yangbo') or die(mysql_error());
+	@mysql_connect('127.0.0.1:3306','sqlname','sqlpw') or die(mysql_error());
 	@mysql_select_db('liuyan');
 	mysql_query('set name utf8');
 	$sql="delete from t where id=$did";
