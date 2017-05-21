@@ -31,7 +31,7 @@
 		}
 		function de(n){
 			if(confirm('确定删除吗！')){
-			location.href='ldelete.php?did='+n;
+			location.href='luntandelete.php?did='+n;
 			}
 		}
 	</script>
