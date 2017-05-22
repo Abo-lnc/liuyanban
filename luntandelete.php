@@ -5,10 +5,6 @@
 	<meta charset="UTF-8">
 	<script type="text/javascript">
 	</script>
-	<style>
-		
-
-	</style>
 </head>
 <body>
 <?php
@@ -24,6 +20,5 @@
 	}
 
 ?>
-
 </body>
 </html>
