@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 	<script type="text/javascript">
 	</script>
+	
 </head>
 <body>
 <?php
