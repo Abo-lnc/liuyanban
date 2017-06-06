@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>留言板(sql)</title>
+	<title>留言板(需要mysql)</title>
 	<meta charset="UTF-8">
 	<script type="text/javascript">
 		var a=true;
