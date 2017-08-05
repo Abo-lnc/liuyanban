@@ -22,7 +22,7 @@
 	}else{
 		echo('error 1064!');
 	}
-
+	
 ?>
 
 </body>
